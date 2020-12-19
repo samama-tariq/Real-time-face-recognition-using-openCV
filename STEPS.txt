@@ -2,4 +2,4 @@ STEPS:-
 1-Make folder 'dataset'.
 2-Make subfolder in dataset folder 'user'
 3-RUN the file project.py (when you run the file python captures your face photos and stores in subfolder which you previously created (user)).
-4-RUN face-recog.py
+4-RUN face-reco.py
